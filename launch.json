@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "aas_mobpro-main",
+            "cwd": "aas_mobpro-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "aas_mobpro-main (profile mode)",
+            "cwd": "aas_mobpro-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "aas_mobpro-main (release mode)",
+            "cwd": "aas_mobpro-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
